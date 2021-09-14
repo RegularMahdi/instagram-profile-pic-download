@@ -4,13 +4,13 @@ instagram profile pic downlaod With Python Programming language and instaloader 
 # Discord
 https://discord.com/invite/YDmKpUn3Xn
 
-# Requirements- درخواست ها
-python 3 - پایتون 3
-pip
-instaloader library - کتابخونه instaloader
+# Requirements
+1. python 3
+2. pip
+3. instaloader library
 
 # Installation
-Download the Source
-type in terminal pip install instaloader to install libray
+1. Download the Source
+2. type in terminal pip install instaloader to install libray
 Information
 1.Discord: Regular Mahdi#0458 2.Email: kingmahdi023@gmail.com
